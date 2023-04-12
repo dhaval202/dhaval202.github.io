@@ -162,7 +162,7 @@ if (URL.indexOf('digital.westpacgroup.com.au') > -1 || URL.indexOf('jira.srv.wes
     }
 
 } else {
-    alert('Oops! You can only use this tool while in JIRA.');
+    alert('Oops! You can only use this tool while in JIRA.......');
 }
 
 })(jQuery);
