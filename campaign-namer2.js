@@ -1,4 +1,5 @@
 (function ($) {
+    
 var URL = document.location.href;
 var campaignType, brand, division, portfolio, targetingType, environment, placement, campaignName;
 
